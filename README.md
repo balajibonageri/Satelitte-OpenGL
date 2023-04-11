@@ -1,0 +1,5 @@
+# Satelitte-OpenGL
+The main aim of this Mini Project is to illustrate the concepts of working of a Satellite in OpenGL. A Satellite is an object which has been placed into orbit by human endeavor. Such objects are sometimes called artificial satellites to distinguish them from natural satellites such as the Moon Satellites are used for a large number of purposes. Common types include military and civilian Earth observation satellites, communications satellites, navigation satellites, weather satellites, and research satellites. This pushed the entire network into a 'congestion collapse' where most packets were lost and the resultant throughput was negligible. We have used input devices like the mouse and keyboard to interact with the program. We have also used SolidCube for forming a complete network setup which helps to understand the concept of Congestion Control very well. To differentiate between objects we have used different colors for different objects
+
+### Requirements
+- At list OpenGL ES 2.0
